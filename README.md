@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#### Flutter App Gif
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td>GIF</td>
+    <td></td>
+     </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/121105558/211192173-c31b7225-6d7f-46f3-b850-e2b957e352d0.gif"style="width:200px;"></td>
+    <td><img src="https://user-images.githubusercontent.com/121105558/211192116-f4197bf6-80ad-4988-b660-62975e104dec.jpeg"style="width:200px;"></td>
+  </tr>
